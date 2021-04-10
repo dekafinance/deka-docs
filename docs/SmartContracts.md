@@ -13,17 +13,17 @@ The contracts are currently deployed on the following networks:
 
 | Contract      | Address |
 | ------------- | ------- |
-| DEKA Token    | **TBA** |
-| DEKA Protocol | **TBA** |
-| DEKA App      | **TBA** |
+| DEKA Token    | **0x992d63281EbF61061fd79623F294d0F0296BeF81** |
+| DEKA Protocol | **0x88629f11e22861043B2E701207a19Aeb743562F9** |
+| DEKA App      | **0xEA9776dAA746d0d29424ff1a251f03c8F95A0693** |
 
 ### Binance Smart Chain - Testnet
 
 | Contract      | Address |
 | ------------- | ------- |
-| DEKA Token    | **TBA** |
-| DEKA Protocol | **TBA** |
-| DEKA App      | **TBA** |
+| DEKA Token    | **0x992d63281EbF61061fd79623F294d0F0296BeF81** |
+| DEKA Protocol | **0x88629f11e22861043B2E701207a19Aeb743562F9** |
+| DEKA App      | **0xEA9776dAA746d0d29424ff1a251f03c8F95A0693** |
 
 ## DEKA Protocol
 
