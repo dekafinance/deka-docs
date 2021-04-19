@@ -11,19 +11,39 @@ The contracts are currently deployed on the following networks:
 
 ### Binance Smart Chain - Mainnet
 
+#### v.1
+
 | Contract      | Address |
 | ------------- | ------- |
 | DEKA Token    | **0x992d63281EbF61061fd79623F294d0F0296BeF81** |
 | DEKA Protocol | **0x88629f11e22861043B2E701207a19Aeb743562F9** |
 | DEKA App      | **0xEA9776dAA746d0d29424ff1a251f03c8F95A0693** |
+
+#### v.2
+
+| Contract      | Address |
+| ------------- | ------- |
+| DEKA Token    | **0xcc043fF110ec01beB2e33C2713Af5924A19aB723** |
+| DEKA Protocol | **0x0757733c26f1364Ae096E6F21eeE6281789ab7cD** |
+| DEKA App      | **0x9D8d758Bfc999d0404718c7b95381365Aa40C6D5** |
 
 ### Binance Smart Chain - Testnet
 
+#### v.1
+
 | Contract      | Address |
 | ------------- | ------- |
 | DEKA Token    | **0x992d63281EbF61061fd79623F294d0F0296BeF81** |
 | DEKA Protocol | **0x88629f11e22861043B2E701207a19Aeb743562F9** |
 | DEKA App      | **0xEA9776dAA746d0d29424ff1a251f03c8F95A0693** |
+
+#### v.2
+
+| Contract      | Address |
+| ------------- | ------- |
+| DEKA Token    | **0xcc043fF110ec01beB2e33C2713Af5924A19aB723** |
+| DEKA Protocol | **0x0757733c26f1364Ae096E6F21eeE6281789ab7cD** |
+| DEKA App      | **0x9D8d758Bfc999d0404718c7b95381365Aa40C6D5** |
 
 ## DEKA Protocol
 
