@@ -5,8 +5,10 @@ sidebar_label: Press Kit
 slug: /press-kit/
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 :::note 
-Download DEKA logos and other media assets here. 
+Download DEKA logos and other media assets here.
 :::
 
 ## Color Schema
@@ -79,11 +81,12 @@ Download DEKA logos and other media assets here.
 </div>
 
 ## Logo
+
 <div className="container">
   <div className="row">
     <div className="col">
         <a href="https://deka.finance">
-            <img src="images/logo_1024_color.png" alt="deka.finance logo color" style={{
+            <img src={useBaseUrl('/img/logo_1024_color.png')} alt="deka.finance logo color" style={{
                 width: '256px',
             }} />
         </a>
@@ -92,13 +95,23 @@ Download DEKA logos and other media assets here.
     </div>
     <div className="col">
         <a href="https://deka.finance">
-            <img src="images/logo_1024_white.png" alt="deka.finance logo white mono" style={{
+            <img src={useBaseUrl('/img/logo_1024_white.png')} alt="deka.finance logo white mono" style={{
                 width: '256px',
             }} />
         </a>
         <p></p>
         <div className="text-center">Format: .png (1024x1024)</div>
     </div>
+  </div>
+</div>
+
+## Download
+<div className="container">
+<div className="row">
+    <p>Additional assets are hosted on slate.host and can be found at <a href="https://slate.host/dekafinance/deka-press-kit">
+        DEKA Press Kit
+    </a>.</p>
+    
   </div>
 </div>
 
